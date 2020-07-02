@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+
+*{
+	box-sizing: border-box;
+}
+
+html{
+	font-family:'Inter', sans-serif;
+	scroll-behavior: smooth;
+}
+
+.support:hover{
+	transition: all 0.3s linear;
+}
